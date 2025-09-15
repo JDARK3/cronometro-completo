@@ -20,3 +20,14 @@ logs/
 
 # Runtime files
 appsettings.json
+# Arquivos de recursos (se não quiser commitar)
+Resources/
+imagens/
+notification/
+
+# Pastas temporárias ou de backup
+fonte/   # Se for backup antigo
+Views/   # Se for cópia alternativa
+
+# Configurações específicas
+NuGet.Config
