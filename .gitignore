@@ -1,0 +1,22 @@
+# .NET build outputs
+bin/
+obj/
+
+# Log files
+logs/
+*.log
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.csproj.user
+
+# Runtime files
+appsettings.json
